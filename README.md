@@ -16,7 +16,15 @@
 - 📫 How to reach me **rawatayush9318@gmail.com**
   
 - 🧠 Fun Fact: I love applying ML to real-world health problems and learning something new every day!
-  
+
+- <h3>💬 Quote</h3>
+
+<blockquote>
+  <p style="margin: 0; padding: 0;">
+    <em>“Code is like humor. When you have to explain it,<br>
+    it’s bad.”</em> – Cory House
+  </p>
+</blockquote>
 
 <h3>🌐 Connect With Me:</h3>
 
@@ -59,16 +67,22 @@
 <h3>📂 Featured Projects:</h3>
 - 🔥 [Heart Stroke Prediction ML Model](https://github.com/AshuuRawt/ML_Project.git) — Built using Python & Machine Learning.
 
+<h3>📈 Top Languages</h3>
 
-<h3 align="left">GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuuRwt&layout=compact&theme=tokyonight" alt="Top Languages Used" />
+</p>
 
-<div align="left">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuurwt&show_icons=true&locale=en&layout=compact" alt="ashuurwt" />
+
+  <h3>📊 GitHub Stats</h3>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashuurwt&show_icons=true&theme=tokyonight" alt="Ayush Rawat's GitHub Stats" />
+</p>
 
   <!-- GitHub Stats -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashuurwt&show_icons=true&locale=en" alt="ashuurwt" />
+  
+  <h3>📚 GitHub Streak</h3>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashuurwt&" alt="ashuurwt" /></p>
 
