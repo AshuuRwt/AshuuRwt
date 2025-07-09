@@ -70,7 +70,7 @@
 <h3>📈 Top Languages</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuuRwt&layout=compact&theme=tokyonight" alt="Top Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuuRwt&theme=tokyonight" alt="Top Languages Used" />
 </p>
 
 
@@ -84,5 +84,5 @@
   
   <h3>📚 GitHub Streak</h3>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashuurwt&" alt="ashuurwt" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashuurwt&theme=tokyonight" alt="ashuurwt" /></p>
 
