@@ -65,7 +65,7 @@
 </p>
 
 <h3>📂 Featured Projects:</h3>
-- 🔥 [Heart Stroke Prediction ML Model](https://github.com/AshuuRawt/ML_Project.git) — Built using Python & Machine Learning.
+- 🔥 [Heart Stroke Prediction ML Model](https://github.com/AshuuRwt/Heart-Stroke-Prediction.git) — Built using Python & Machine Learning.
 
 <h3>📈 Top Languages</h3>
 
