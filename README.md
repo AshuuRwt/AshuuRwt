@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuurwt&label=Profile%20views&color=0e75b6&style=flat" alt="ashuurwt" /> </p>
 
-- 🔭 I’m currently working on Movie Prediction Model
+- 🔭 I’m currently working on - [Movie Prediction Model]
 
 - 🎓 I'm currently pursuing BCA from G.N.I.O.T
 
@@ -63,7 +63,7 @@
 </p>
 
 <h3>📂 Featured Projects:</h3>
-- 🔥 [Heart Stroke Prediction ML Model] — Built using Python & Machine Learning.
+- 🔥 [Heart Stroke Prediction ML Model] — Built using Python & Machine Learning. <br>
 - 🚀 [Movie Prediction Model] -Built using Python,Scikit learn & Streamlit
 
 <h3>📈 Top Languages</h3>
