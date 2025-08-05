@@ -61,8 +61,8 @@
 </p>
 
 <h3>📂 Featured Projects:</h3>
-- 🔥 [Heart Stroke Prediction ML Model] — Built using Python & Machine Learning. <br>
-- 🚀 [Movie Prediction Model] -Built using Python,Scikit learn & Streamlit
+- 🔥 [Heart Stroke Prediction ML Model] — Built using Python & Machine Learning. Live Working- https://ashuurwt-ml-project-app-rsm3dr.streamlit.app/ <br>
+- 🚀 [Movie Prediction Model] -Built using Python,Scikit learn & Streamlit. Live Working- https://recommender-flix.streamlit.app/
 
 <h3>📈 Top Languages</h3>
 
