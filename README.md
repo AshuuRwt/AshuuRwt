@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ayush Rawat <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy5/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there, I'm Ayush Rawat 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Engineer;Building+ML+%26+LLM+Applications;Passionate+about+RAG+Pipelines" alt="Typing SVG" /></a>
@@ -15,6 +15,7 @@
 ## 👨🏻‍💻 About Me
 
 - 🎓 **BCA Student** focused on Artificial Intelligence & Machine Learning.
+- 📚 **Currently Studying:** Operating Systems, Computer Graphics, Software Engineering, and Optimization Techniques.
 - 🛠️ Building production-ready **ML & LLM applications**.
 - 🏥 Passionate about AI for healthcare and solving real-world problems.
 - ⚙️ Currently diving deep into **LangChain & RAG pipelines**.
@@ -23,12 +24,12 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,sklearn,numpy,pandas,fastapi,git,github,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,sklearn,numpy,pandas,fastapi,git,github,docker,vscode&perline=15" alt="Tech Stack" />
   </a>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48" height="48" style="filter: invert(1); transform: translateY(-4px);" title="LangChain"/>
+  <img src="https://cdn.simpleicons.org/langchain/white" width="44" height="44" alt="LangChain" title="LangChain"/>
 </p>
 
 ---
